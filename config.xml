@@ -58,9 +58,7 @@ MUHELEN MURUGAN
 	<gap:plugin name="org.apache.cordova.network-information"  />
 	<gap:plugin name="org.apache.cordova.splashscreen"  />
 	<gap:plugin name="com.phonegap.plugins.barcodescanner" />-->
-	
-	<gap:plugin name="com.google.cordova.admob"/>
-	
+		
 	<access origin="*" subdomains="true" />
 </widget>
 
